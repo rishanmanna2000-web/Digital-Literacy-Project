@@ -2,6 +2,7 @@
 This project serves as a comprehensive Digital Literacy Portfolio, developed  through the lens of a Student Digital Ambassador. The primary objective is to  demonstrate proficiency in navigating the digital world, from professional profile  creation to safe online communication. 
 
 CSE0001: Digital Literacy Portfolio
+
 👤 Student Information
 Name: Rishan Manna
 Registration Number:25BCY10018
@@ -10,9 +11,11 @@ University: VIT Bhopal University
 Role: Student Digital Ambassador
 
 🚀 Project Overview
+
 This repository contains the complete portfolio for the Digital Literacy (CSE0001) course.As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally . This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
 
 📂 Repository Structure
+
 This project is organized into specific folders for each module as per the assignment brief:
 
 Folder / File	Description
