@@ -2,9 +2,9 @@
 # CSE0001: Digital Literacy Portfolio 
 
 ## 👤 Student Information
-* Name: Sayan Manna
-* Registration Number:25BAI10467 
-* Branch: B.Tech CSE (AI & ML) 
+* Name: Rishan Manna
+* Registration Number:25BCY10018
+* Branch: B.Tech CSE (Cybersecurity and digital Forensics) 
 * University: VIT Bhopal University 
 * Role: Student Digital Ambassador 
 
