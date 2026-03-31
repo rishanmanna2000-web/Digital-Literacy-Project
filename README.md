@@ -1,9 +1,10 @@
 # Digital-Literacy-Project
 This project serves as a comprehensive Digital Literacy Portfolio, developed  through the lens of a Student Digital Ambassador. The primary objective is to  demonstrate proficiency in navigating the digital world, from professional profile  creation to safe online communication. 
 
-CSE0001: Digital Literacy Portfolio
+
 
 👤 Student Information
+
 Name: Rishan Manna
 
 Registration Number:25BCY10018
@@ -14,9 +15,13 @@ University: VIT Bhopal University
 
 Role: Student Digital Ambassador
 
+
+
 🚀 Project Overview
 
 This repository contains the complete portfolio for the Digital Literacy (CSE0001) course.As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally . This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
+
+
 
 📂 Repository Structure
 
@@ -34,6 +39,8 @@ task-3-platforms/	Proof of coding challenges and the Digital Literacy Quiz link.
 task-4-email-etiquette/	Professional email drafts and Social Media Do's/Don'ts.
 
 task-5-cybercrime/	Phishing Case Study and a student-focused Prevention Checklist.
+
+
 
 
 Module Summaries
@@ -55,8 +62,12 @@ Drafted professional correspondence for academic extensions and internship inqui
 🔹 Module 5: Cybersecurity
 Researched a detailed case study on Phishing and provided a 'Stay Safe Online' guide featuring the National Cyber Crime Helpline (1930).
 
+
+
 Conclusion
 Through this project, I have transitioned from a digital user to a digital creator and leader. These skills in version control, professional etiquette, and online safety are foundational to my future career in Artificial Intelligence.
+
+
 
 📚 References & Tools
 Design: Canva
