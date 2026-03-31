@@ -5,9 +5,13 @@ CSE0001: Digital Literacy Portfolio
 
 👤 Student Information
 Name: Rishan Manna
+
 Registration Number:25BCY10018
+
 Branch: B.Tech CSE (Cybersecurity and Digital Forensics)
+
 University: VIT Bhopal University
+
 Role: Student Digital Ambassador
 
 🚀 Project Overview
@@ -20,11 +24,18 @@ This project is organized into specific folders for each module as per the assig
 
 Folder / File	Description
 report/	Contains the full Project_Report.pdf covering all 5 tasks.
+
 task-1-presentation/	Digital Literacy Awareness Infographic and design description.
+
 task-2-portfolio/	Screenshots of professional profiles (GitHub, LinkedIn, Kaggle).
+
 task-3-platforms/	Proof of coding challenges and the Digital Literacy Quiz link.
+
 task-4-email-etiquette/	Professional email drafts and Social Media Do's/Don'ts.
+
 task-5-cybercrime/	Phishing Case Study and a student-focused Prevention Checklist.
+
+
 Module Summaries
 
 🔹 Module 1: Digital Awareness
