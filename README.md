@@ -40,7 +40,7 @@ Established a technical presence on **GitHub**, LinkedIn, and Kaggle.My GitHub p
 ### 🔹 Module 3: Collaboration & Coding
 Completed beginner-level Python challenges on hackerRank and developed a 5-question awareness quiz using Google Forms.
 
-#Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSeB7EUb-LSJ9uCCTynnYajDnup_mzHU5VczPzhJIgqj07ci1g/viewform?usp=sharing&ouid=113616887416193002101
+#Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScSuJylhr3shYce_owwqtz8xZS15ForEEXR_mvf1OwrpDAzoQ/viewform?usp=dialog
 
 ### 🔹 Module 4: Effective Communication
 Drafted professional correspondence for academic extensions and internship inquiries.Also compiled a 10-point checklist for responsible social media usage.
